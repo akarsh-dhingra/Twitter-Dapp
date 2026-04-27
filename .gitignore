@@ -1,0 +1,11 @@
+node_modules
+artifacts
+cache
+coverage
+.env
+client/node_modules
+client/dist
+client/.env
+backend/node_modules
+backend/.env
+.DS_Store
