@@ -1,5 +1,7 @@
 # Web3 Twitter dApp
 
+![Decentralized Twitter DApp Diagram](docs/decentralized-twitter-dapp-architecture.png)
+
 A decentralized Twitter-like application with:
 
 - Solidity + Hardhat for the smart contract
